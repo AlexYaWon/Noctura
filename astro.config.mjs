@@ -8,8 +8,7 @@ export default defineConfig({
     tailwind(),
     sitemap()
   ],
-  site: "noctura-alexnetwork.vercel.app"
-",
+  site: "noctura-alexnetwork.vercel.app",
   output: "static",
   compressHTML: false
 });
